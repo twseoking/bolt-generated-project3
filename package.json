@@ -1,0 +1,14 @@
+{
+      "name": "openai-chat",
+      "version": "1.0.0",
+      "description": "A chat robot using OpenAI API with web interface",
+      "scripts": {
+        "start": "vite"
+      },
+      "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "openai": "^4.44.1",
+        "vite": "^4.2.0"
+      }
+    }
